@@ -1,0 +1,23 @@
+.bttning{
+    background: linear-gradient(#ec5792, #f28067) !important;
+    margin-top: 2%;
+    width: 32%;
+    margin: auto;
+    color: #f9eff1;
+}
+
+.country{
+    margin-top: 30%;
+}
+
+.city{
+    margin-top: 30%;
+}
+.setMargin{
+    margin-top: 6%;
+}
+
+.locationAlign{
+    margin-top: 10%;
+    margin-left: 4% !important;
+}

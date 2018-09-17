@@ -1,0 +1,22 @@
+.dateColor{
+    color: #f2a0c3;
+    margin-top:20%;
+}
+
+.upadding{
+    padding-left:14%;
+}
+
+.temperature{
+    color: #f9eff1;
+    font-size: 9vw;
+    /* margin-top: 93%; */
+    position: absolute;
+    bottom: 15%;
+}
+.description{
+    position: absolute;
+    color: #f29a9d;
+    bottom: 9%;
+    font-size: 2.2vw;
+}

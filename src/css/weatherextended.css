@@ -1,0 +1,19 @@
+.colorText{
+    color: #929292;
+    /*font-size: 1.8vw;  previously used, was ideal*/
+    font-size:1.6vw;
+    
+}
+
+span{
+    background: -webkit-linear-gradient(#ec5792, #f28067) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;    
+    position: absolute;
+    right: 9%;
+}
+
+.locationAlign{
+    margin-top: 10%;
+    margin-left: 4% !important;
+}
